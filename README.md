@@ -6,7 +6,6 @@ This project contains my solution for **Task 1** of the Quantium Data Analytics 
 
 ## 📂 Files
 - `chips_analysis.ipynb` – Full analysis in Python  
-- `BhoomiNayak_Quantium_Task1.pdf` – PDF report  
 - `QVI_transaction_data.xlsx` – Transaction dataset  
 - `QVI_purchase_behaviour.csv` – Customer dataset  
 
